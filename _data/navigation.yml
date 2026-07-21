@@ -9,7 +9,7 @@
 
 main:
   - title: "CV"
-    url: /files/AEN_CV.pdf/
+    url: /files/AEN_CV.pdf
     
   - title: "Publications"
     url: https://scholar.google.com/citations?user=8aa64GkAAAAJ&hl=en
