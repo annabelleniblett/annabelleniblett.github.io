@@ -9,10 +9,10 @@
 
 main:
   - title: "CV"
-    url: /cv/
+    url: /files/AEN_CV.pdf/
     
   - title: "Publications"
-    url: /publications/
+    url: https://scholar.google.com/citations?user=8aa64GkAAAAJ&hl=en
 
   # - title: "Talks"
   #   url: /talks/    
