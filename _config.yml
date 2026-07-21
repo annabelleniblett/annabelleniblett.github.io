@@ -23,7 +23,7 @@ repository               : "annabelleniblett/annabelleniblett.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "AEN_Profile.png"
   name             : "Annabelle Niblett"
   pronouns         : "she/her"  
   bio              : "PhD Student at UA Lunar and Planetary Laboratory"
