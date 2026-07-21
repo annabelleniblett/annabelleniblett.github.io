@@ -15,7 +15,7 @@ Academic and Research Background
 ======
 In June of 2026, I graduated from Dartmouth College with a double major in Physics and Astronomy (high honors) and a minor in Women's, Gender, and Sexuality Studies. At Dartmouth, I worked with Professor Elisabeth Newton studying hot Jupiters and M-dwarfs. Under her mentorship, I completed an undergraduate thesis entitled _Hot Jupiter Atmospheres Through Time_.
 
-During off terms, I worked at Los Alamos National Laboratory under Dr. Chris Fryer simulating light curves of type Ic supernovae and at NASA JPL under Dr. Sam Halverson advancing radial velocity detrending techniques for exoplanet detection. My past research areas include the northern lights, the transit and radial velocity methods for exoplanet detection, core-collapse supernovae, cataclysmic variable stars, the lithium depletion boundary for M-dwarfs, and exoplanet atmospheres.
+During off-terms, I worked at Los Alamos National Laboratory under Dr. Chris Fryer simulating light curves of type Ic supernovae and at NASA JPL under Dr. Sam Halverson advancing radial velocity detrending techniques for exoplanet detection. My past research areas include the northern lights, the transit and radial velocity methods for exoplanet detection, core-collapse supernovae, cataclysmic variable stars, the lithium depletion boundary for M-dwarfs, and exoplanet atmospheres.
 
 Service and Leadership
 ======
