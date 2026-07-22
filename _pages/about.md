@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Reach for the Stars!"
 author_profile: true
 hide_title: true
 redirect_from: 
