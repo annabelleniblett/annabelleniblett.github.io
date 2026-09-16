@@ -9,7 +9,7 @@ redirect_from:
 ---
 Hello!
 ======
-My name is Annabelle Niblett and I am a first year PhD Student at the University of Arizona's Lunar and Planetary Laboratory working with Professor Sukrit Ranjan. In 2026, I was awarded both a University Fellowship through the University of Arizona and a National Science Foundation Graduate Research Fellowship. My primary areas of interest are exoplanets, planetary atmospheres, planetary evolution and formation, and theoretical astrophysics. With the Ranjan group, my initial research project focuses on determining how we can constrain abiogenesis theories through Mars exoploration. In my free time, I enjoy running, hiking, reading, and visiting local coffee shops. 
+My name is Annabelle Niblett, and I am a first-year PhD Student at the University of Arizona's Lunar and Planetary Laboratory working with Professor Sukrit Ranjan. In 2026, I was awarded both a University Fellowship through the University of Arizona and a National Science Foundation Graduate Research Fellowship. In my research, I aim to answer questions about abiogenesis and exoplanet atmospheres through a mix of computational and observational techniques. Outside of work, I enjoy running, hiking, reading, and visiting local coffee shops. 
 
 Academic and Research Background
 ======
